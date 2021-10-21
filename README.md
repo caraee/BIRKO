@@ -1,2 +1,2 @@
 # BIRKO
-Code for th BIRKO GTT data analysis
+Code for the BIRKO Bayesian glucose tolerance test data analysis and the calcium imaging analysis
