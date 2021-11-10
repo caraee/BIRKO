@@ -1,0 +1,19 @@
+Estimate,CI.Lower,CI.Upper,Evid.Ratio,Post.Prob,Star,Sex,Diet,ContrGeno,RefGeno,Age,Time,Evidence
+-2.4,-4,-0.7,111.5,1,*,Female,LFD,InsRCre,WTCre,9,15,Decisive
+-4.7,-7,-2.4,2856.1,1,*,Female,LFD,InsRCre,WTCre,39,15,Decisive
+-1.8,-3.6,-0,20.1,1,*,Female,LFD,HetCre,WTCre,4,15,Strong
+-3.1,-5,-1.2,263.5,1,*,Female,LFD,HetCre,WTCre,21,15,Decisive
+-3.9,-6.1,-1.7,596,1,*,Female,LFD,HetCre,WTCre,39,15,Decisive
+-2.3,-4.5,-0.1,22.3,1,*,Female,LFD,HetCre,WTCre,39,30,Strong
+-2.3,-4.5,-0.1,22.1,1,*,Female,LFD,HetCre,WTCre,39,60,Strong
+-2.9,-5.6,-0.2,25.1,1,*,Male,LFD,InsRCre,WTCre,4,30,Strong
+-4,-6.6,-1.4,190.4,1,*,Male,LFD,InsRCre,WTCre,39,90,Decisive
+-5.8,-8.4,-3.2,13332.3,1,*,Male,LFD,InsRCre,WTCre,39,120,Decisive
+-3.6,-5.9,-1.3,226.6,1,*,Male,LFD,HetCre,WTCre,39,30,Decisive
+-3.9,-6.1,-1.6,454.8,1,*,Male,LFD,HetCre,WTCre,39,60,Decisive
+-2.9,-5.1,-0.7,59.2,1,*,Male,LFD,HetCre,WTCre,39,90,Very strong
+-3.8,-6,-1.6,420.1,1,*,Male,LFD,HetCre,WTCre,39,120,Decisive
+-4.7,-7.5,-1.8,245,1,*,Female,HFD,InsRCre,WTCre,21,15,Decisive
+-5,-8.4,-1.6,134,1,*,Female,HFD,InsRCre,WTCre,54,30,Decisive
+3.6,0.8,6.4,59.3,1,*,Female,HFD,HetCre,WTCre,39,90,Very strong
+-3.8,-7.3,-0.3,25.6,1,*,Male,HFD,HetCre,WTCre,54,15,Strong
